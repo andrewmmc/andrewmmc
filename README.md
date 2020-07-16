@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Andrew
 
 <!--
 **andrewmmc/andrewmmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* Software developer based in Hong Kong
+* Enjoy creating beautiful, simple and elegant things
+* Used to develop modern web applications under Agile and Waterfall methodologies with Git workflow
+* Mostly worked with TypeScript, JavaScript, Node.js and PHP
+* Visit [my blog](https://andrewmmc.com) to know more about me and my writings
