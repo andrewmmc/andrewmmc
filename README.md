@@ -1,23 +1,5 @@
-### 👋 Hi, I'm Andrew
+Passionate software developer with over four years of experience. Over the years, I realized that my strength is working on frontend projects with designers by making sure every element in good shape with elegant code. Also, I used to develop software under Agile and Waterfall methodologies with Git workflow.
 
-<!--
-**andrewmmc/andrewmmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skilled in JavaScript (ES6), TypeScript, React, Node.js, PHP, and related technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-* Software developer based in Hong Kong
-* Enjoy creating beautiful, simple and elegant things
-* Used to develop modern web applications under Agile and Waterfall methodologies with Git workflow
-* Mostly worked with TypeScript, JavaScript, Node.js and PHP
-* Visit [my blog](https://andrewmmc.com) to know more about me and my writings
+You may check out my blog here - [https://andrewmmc.com](https://andrewmmc.com)
