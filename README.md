@@ -1,9 +1,9 @@
 ### Hi, I'm Andrew.
 
-I am a frontend engineer based in Hong Kong. Used to develop modern web applications under Agile and Waterfall methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.  
-  
-Currently working at PwC to build innovative products. Previously I worked at Lalamove, one of the unicorn startups in Hong Kong, as a software engineer. Professional Scrum Master I certified.  
-  
-Skilled in TypeScript, JavaScript (ES6+), React, Node.js, PHP, and related technologies. Enjoy working with UI/UX designers.  
-  
+Frontend development is my passion as a forward-thinking and motivated Software Engineer with over five years of expertise. I have rapidly developed UI components in collaboration with designers and rewrote multiple web applications for better performance and reduced maintenance costs. I enjoy creating beautiful, simple and elegant web applications. I always pay special attention to the details while maintaining a creative mindset.
+
+I am currently employed at Spaceship, developing customers and business web applications to provide logistics solutions. I have previously worked at PwC Hong Kong, where I supported the company's digital transformation, and Lalamove, a Hong Kong unicorn start-up.
+
+My skills include TypeScript, JavaScript (ES6+), React, Node.js, PHP, and related technologies. Professional Scrum Master I certified.
+
 [Check out my blog here](https://andrewmmc.com) or [reach out to me on Linkedin](https://www.linkedin.com/in/andrewmmc/). ☕!
