@@ -1,7 +1,36 @@
-### Hi, I'm Andrew.
+### Hi, I'm Andrew Mok (`andrewmmc`)
 
-Frontend development is my passion as a forward-thinking and motivated Software Engineer with over five years of expertise. I have rapidly developed UI components in collaboration with designers and rewrote multiple web applications for better performance and reduced maintenance costs. I enjoy creating beautiful, simple and elegant web applications. I always pay special attention to the details while maintaining a creative mindset.
+Frontend Software Engineer with 10 years of experience. Frontend is my passion. I enjoy building simple, elegant apps and pay special attention to the details.
 
-My skills include TypeScript, JavaScript (ES6+), React, Node.js, PHP, and related technologies. Professional Scrum Master I certified.
+#### Featured apps
 
-[Check out my blog here](https://andrewmmc.com) or [reach out to me on Linkedin](https://www.linkedin.com/in/andrewmmc/). ☕!
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://roshi.mmc.dev"><img src="https://mmc.dev/apps/roshi.png" width="64" alt="Roshi"></a><br>
+      <strong><a href="https://roshi.mmc.dev">Roshi</a></strong><br>
+      Test LLM API requests locally<br>
+      <a href="https://roshi.mmc.dev">roshi.mmc.dev</a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://clipwise.mmc.dev"><img src="https://mmc.dev/apps/clipwise.png" width="64" alt="Clipwise"></a><br>
+      <strong><a href="https://clipwise.mmc.dev">Clipwise</a></strong><br>
+      Rewrite text from the macOS menu bar<br>
+      <a href="https://clipwise.mmc.dev">clipwise.mmc.dev</a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://bookscompare.mmc.dev"><img src="https://mmc.dev/apps/bookscompare.png" width="64" alt="BooksCompare"></a><br>
+      <strong><a href="https://bookscompare.mmc.dev">BooksCompare</a></strong><br>
+      Compare Taiwan bookstore prices<br>
+      <a href="https://bookscompare.mmc.dev">bookscompare.mmc.dev</a>
+    </td>
+  </tr>
+</table>
+
+Also shipping: [Concert Guide](https://concert.mmc.dev) · [ChequeMate](https://chq.mmc.dev) · [Routes ETA](https://eta.mmc.dev) · [Hamta](https://hamta.mmc.dev)
+
+---
+
+[mmc.dev](https://mmc.dev) · [andrewmmc.com](https://andrewmmc.com) · [LinkedIn](https://www.linkedin.com/in/andrewmmc/)
+
+TypeScript · React · Node.js
